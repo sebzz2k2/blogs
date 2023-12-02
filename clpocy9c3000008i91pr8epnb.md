@@ -34,7 +34,7 @@ Hey there, fellow code wranglers! Today, I'm going to spill the beans on a littl
     ssh-add ~/.ssh/id_rsa_name
     ```
     
-    **Config time:** Edit your SSH config file like so: Replace name in `Host` accordingly
+5. **Config time:** Edit your SSH config file like so: Replace name in `Host` and `IdentityFile` parameters accordingly
     
     ```bash
     cat >> ~/.ssh/config << SSHConfigEoF  
@@ -45,9 +45,9 @@ Hey there, fellow code wranglers! Today, I'm going to spill the beans on a littl
     SSHConfigEoF`
     ```
     
-5. **Hook it up with GitHub:** Add your SSH key to your GitHub account. Check out their guide if you need a hand. [adding ssh to Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+6. **Hook it up with GitHub:** Add your SSH key to your GitHub account. Check out their guide if you need a hand. [adding ssh to Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
     
-6. **Rinse and Repeat for More Keys:** When cloning new repos, use a slight twist in the command: Assuming your repo link is `git clone` [`git@github.com`](mailto:git@github.com)`:<user>/<repo_name>` replace with `git clone` [`git@name.github.com`](mailto:git@name.github.com)`:<user>/<repo_name>` . `name` is the `Host` you gave in step `5`
+7. **Rinse and Repeat for More Keys:** When cloning new repos, use a slight twist in the command: Assuming your repo link is `git clone` [`git@github.com`](mailto:git@github.com)`:<user>/<repo_name>` replace with `git clone` [`git@name.github.com`](mailto:git@name.github.com)`:<user>/<repo_name>` . `name` is the `Host` you gave in step `5`
     
 
 #### Quick Security Check: Permissions Matter!
