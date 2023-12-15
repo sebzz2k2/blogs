@@ -1,8 +1,10 @@
 ---
-title: "Optimizing SQL Performance for Data Retrieval"
+title: "API optimization using SQL (n+1) optimization"
+seoTitle: "api optimization"
+seoDescription: "Api otimization techniques, Database optimization, Backend engineering"
 datePublished: Tue Oct 31 2023 19:59:59 GMT+0000 (Coordinated Universal Time)
 cuid: cloer6gra000109mi40ebbhg2
-slug: optimizing-sql-performance-for-data-retrieval
+slug: api-optimization-using-sql-n1-optimization
 tags: mysql, databases, sql, psql
 
 ---
