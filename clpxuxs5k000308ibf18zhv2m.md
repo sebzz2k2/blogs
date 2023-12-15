@@ -1,10 +1,10 @@
 ---
-title: "Is HTTPS secure"
+title: "Https is not secure enough ?"
 seoTitle: "Is HTTPS secure"
 seoDescription: "security of user data on internet. Data visible to internet service providers (ISP)"
 datePublished: Sat Dec 09 2023 09:32:32 GMT+0000 (Coordinated Universal Time)
 cuid: clpxuxs5k000308ibf18zhv2m
-slug: is-https-secure
+slug: https-is-not-secure-enough
 tags: https, security
 
 ---
