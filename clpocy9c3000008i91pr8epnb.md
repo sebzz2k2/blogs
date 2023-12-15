@@ -1,5 +1,5 @@
 ---
-title: "Multiple ssh for github"
+title: "How to add multiple ssh keys for a single github account"
 seoTitle: "add multiple ssh keys"
 datePublished: Sat Dec 02 2023 17:59:06 GMT+0000 (Coordinated Universal Time)
 cuid: clpocy9c3000008i91pr8epnb
