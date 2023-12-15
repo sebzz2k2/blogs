@@ -1,9 +1,10 @@
 ---
-title: "Understanding Pagination"
+title: "API optimization using SQL Pagination"
 seoTitle: "pagination in sql"
+seoDescription: "Backend engineering, API optimization, SQL optimization"
 datePublished: Sat Nov 18 2023 11:30:45 GMT+0000 (Coordinated Universal Time)
 cuid: clp3ywx1y000809l2h8tjdo5a
-slug: understanding-pagination
+slug: api-optimization-using-sql-pagination
 tags: programming-blogs, sql, dbms, psql
 
 ---
