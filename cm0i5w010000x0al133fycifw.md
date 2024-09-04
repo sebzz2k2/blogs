@@ -17,7 +17,7 @@ DOM stands for **Document Object Model** is a browsers representation of your HT
 
 ### Steps involved in Paint of layout
 
-![[Pasted image 20240828113510.png]]( align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725451527293/6ef287d1-7003-4a47-b395-30aadab633d9.png align="left")
 
 After data is fetched in chunks of 8kb a content tree is created by parsing the HTML document converting it into DOM nodes. Then a render tree is constructed by parsing the css and the content tree. After the render tree is constructed each node is given exact coordinates where it should appear on the screen. Then the back-end UI layer will be traversed and painted. For every small change the browser uses a dirty bit system. A DOM node that changes marks itself dirty and a incremental layout change is triggered. This incremental change is done by repaint and reflow.
 
