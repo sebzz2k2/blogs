@@ -1,5 +1,5 @@
 ---
-title: "API optimization using SQL (n+1) optimization"
+title: "N+1 Query Minimization"
 seoTitle: "api optimization"
 seoDescription: "Api otimization techniques, Database optimization, Backend engineering"
 datePublished: Tue Oct 31 2023 19:59:59 GMT+0000 (Coordinated Universal Time)
